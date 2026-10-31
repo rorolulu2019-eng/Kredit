@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /antrag
+Disallow: /api/
+
+Sitemap: https://antragkreditflow.de/sitemap.xml
